@@ -1,0 +1,9 @@
+pub mod auth;
+pub mod patients;
+pub mod diseases;
+pub mod triage;
+pub mod doctors; 
+pub mod appointments;
+pub mod consultations;
+pub mod history;
+pub mod subscriptions;
